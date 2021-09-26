@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhoupengyu/Documents/homeworks/2021OS_Assignments/multi_thread/main.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+
