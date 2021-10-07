@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhoupengyu/Documents/homeworks/2021OS_Assignments/main.c
+/Users/zhoupengyu/Documents/homeworks/2021OS_Assignments/size_of_int/main.c
 stdio.h
--
-unistd.h
--
-sys/wait.h
--
-stdlib.h
 -
 
