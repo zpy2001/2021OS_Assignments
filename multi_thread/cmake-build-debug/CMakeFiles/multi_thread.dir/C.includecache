@@ -7,10 +7,12 @@
 #IncludeRegexTransform: 
 
 /Users/zhoupengyu/Documents/homeworks/2021OS_Assignments/multi_thread/main.c
-stdio.h
+pthread.h
 -
 stdlib.h
 -
-pthread.h
+unistd.h
+-
+stdio.h
 -
 
